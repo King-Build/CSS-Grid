@@ -12,4 +12,5 @@ It showcases how to structure web page elements in a grid system for better orga
 [![Screenshot-2025-06-02-at-09-23-54.png](https://i.postimg.cc/gjXcvhj2/Screenshot-2025-06-02-at-09-23-54.png)](https://postimg.cc/rRTLTK5B)
 
 ## 🌐 Live Demo  
-👉 [View Live](https://yourusername.github.io/grid-layout-project/)
+👉 <a href="https://css-gridlayout.netlify.app/" target="_blank">View Live</a>
+
